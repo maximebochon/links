@@ -24,6 +24,7 @@
     * à Bordeaux (Les Aubiers), les mardi et jeudi de 14h00 à 16h00
   * réparation
     * à Cenon, à la Mercerie Solidaire, les mardi de 14h00 à 17h00
+* ateliers couture de [La Maison de Quartier de Caudéran](https://www.agja.org/agja/l-actualite/?t=1779434767) à Bordeaux
 
 ## Professionnels de la réparation
 
