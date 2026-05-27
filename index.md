@@ -1,5 +1,7 @@
 # Couture
 
+## Ateliers
+
 * ateliers "Repair Café et couture" de l'association [La Boucle](https://www.la-boucle.fr/events/) à Bègles · [Facebook](https://www.facebook.com/laboucle.begles)
 * ateliers couture d'auto-réparation de l'association [Récup'R](https://recupr.org/couture.php#L'Atelier%20Couture) à Bordeaux · [Facebook](https://www.facebook.com/RecuprBdx)
 * ateliers créatifs "Couture Libre / débutant" de la boutique [Les Yvettes](https://www.les-yvette.fr/nos-ateliers) à Bordeaux (Nansouty)
@@ -16,6 +18,10 @@
     * à Bordeaux (Les Aubiers), les mardi et jeudi de 14h00 à 16h00
   * réparation
     * à Cenon, à la Mercerie Solidaire, les mardi de 14h00 à 17h00
+
+## Professionnels de la réparation
+
+* [Tilli](https://tilli.fr/comment-fonctionne-tilli-le-service-de-retouche-et-reparation/)
 
 <!-- Palette :
 · point médian
