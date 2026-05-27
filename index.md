@@ -37,6 +37,7 @@
 # Mobilier d'occasion
 
 * [L'atelier d'éco solidiaire](https://atelierdecosolidaire.com/) à Bordeaux (Bacalan)
+* [Recyclerie des Hauts de Garonne](https://www.cenon.fr/a-la-une/actualites/recyclerie-des-hauts-de-garonne) à Cenon · [Facebook](https://www.facebook.com/Recycleriehdg/)
 
 <!-- Palette :
 · point médian
