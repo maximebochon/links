@@ -25,6 +25,8 @@
   * réparation
     * à Cenon, à la Mercerie Solidaire, les mardi de 14h00 à 17h00
 * ateliers couture de [La Maison de Quartier de Caudéran](https://www.agja.org/agja/l-actualite/?t=1779434767) à Bordeaux
+* ateliers ["Repair Café" à Eysines](https://repaircafeouestbordeaux.org/category/evenements/) (et parfois au Haillan)
+  * généralement les samedi de 14h00 à 18h00 à la Maison de Quartier Guy QUEYROI
 
 ## Professionnels de la réparation
 
