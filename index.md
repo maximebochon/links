@@ -34,6 +34,10 @@
 * [Tilli](https://tilli.fr/comment-fonctionne-tilli-le-service-de-retouche-et-reparation/)
 * [Retouches & Upcycling by Julie](https://www.mailleapart.fr/couturiers/33063-bordeaux/gegighhdjhfgfgjdbhd.htm) à Bordeaux
 
+# Mobilier d'occasion
+
+* [L'atelier d'éco solidiaire](https://atelierdecosolidaire.com/) à Bordeaux (Bacalan)
+
 <!-- Palette :
 · point médian
 -->
