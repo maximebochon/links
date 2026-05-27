@@ -7,6 +7,8 @@
 * ateliers créatifs "Couture Libre / débutant" de la boutique [Les Yvettes](https://www.les-yvette.fr/nos-ateliers) à Bordeaux (Nansouty)
 * ateliers "Repair couture et création" au tiers-lieu [La ManuCo](https://lamanuco.fr/page/les-activites-de-la-manuco) à Bordeaux (Saint-Michel) · [Facebook](https://www.facebook.com/lamanuco)
   * 5 €, tous les troisèmes mardi du mois
+* ateliers ["couture et tricot zéro déchet"](https://bibliotheque.bordeaux.fr/ark:/27705/73833104_ateliers-couture-et-tricot-zero-dechet-7563410) à la [bibliothèque "Bordeaux-Lac"](https://bibliotheque.bordeaux.fr/search/77dc2f24-513a-47a9-86bf-318ab01e36e8) à Bordeaux
+  * les samedi 30 mai / 13 juin / 4 juillet 2026 de 11h00 à 13h00
 * ateliers textile gratuits de l'initiative sociale et solidaire [Espace Textile Rive Droite](https://www.espacetextilerivedroite.org/ateliers#repair-cafe) · [Facebook](https://www.facebook.com/profile.php?id=100056915264665)
   * cours
     * à Cenon, à la Mercerie Solidaire, les mardi et jeudi de 9h30 à 11h30
