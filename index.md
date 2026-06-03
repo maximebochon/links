@@ -40,6 +40,10 @@
 * [L'atelier d'éco solidiaire](https://atelierdecosolidaire.com/) à Bordeaux (Bacalan)
 * [Recyclerie des Hauts de Garonne](https://www.cenon.fr/a-la-une/actualites/recyclerie-des-hauts-de-garonne) à Cenon · [Facebook](https://www.facebook.com/Recycleriehdg/)
 
+# Gestion des déchets
+
+* [Carte des composteurs et bornes à déchets alimentaires en métropole de Bordeaux](https://geo.bordeaux-metropole.fr/composteurs/)
+
 <!-- Palette :
 · point médian
 -->
