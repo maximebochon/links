@@ -35,6 +35,17 @@
 * [Tilli](https://tilli.fr/comment-fonctionne-tilli-le-service-de-retouche-et-reparation/)
 * [Retouches & Upcycling by Julie](https://www.mailleapart.fr/couturiers/33063-bordeaux/gegighhdjhfgfgjdbhd.htm) à Bordeaux
 
+# Réparation
+
+## Embout de câble RJ45 cassé
+
+* Solution corrective :
+  * [Guide détaillé par David LEGRAND (2021)](https://next.ink/2549/reparer-vieux-cables-rj45-aux-embouts-casses/)
+* Solution de coutournement :
+  * Ajout d'un collier amovible se substitutant au mécanisme cassé, disponible :
+    * [à la vente](https://www.reichelt.com/fr/fr/shop/produit/kit_de_demarrage_clip_de_reparation_rj45-155289)
+    * [à l'impression 3D](https://www.thingiverse.com/thing:4687836)
+
 # Mobilier d'occasion
 
 * [L'atelier d'éco solidiaire](https://atelierdecosolidaire.com/) à Bordeaux (Bacalan)
