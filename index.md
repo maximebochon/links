@@ -30,7 +30,7 @@
 * ateliers ["Repair Café Bordeaux"](https://repair-cafe-bordeaux.org/) dans divers lieux proches de Bordeaux
 * ateliers ["Floirac Repair Café"](https://www.facebook.com/profile.php?id=100094750946166&sk=events) à Floirac
 
-## Professionnels de la réparation
+## Couturiers professionnels spécialisés en réparation
 
 * [Tilli](https://tilli.fr/comment-fonctionne-tilli-le-service-de-retouche-et-reparation/)
 * [Retouches & Upcycling by Julie](https://www.mailleapart.fr/couturiers/33063-bordeaux/gegighhdjhfgfgjdbhd.htm) à Bordeaux
